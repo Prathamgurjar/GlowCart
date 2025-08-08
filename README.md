@@ -13,14 +13,14 @@ A beautiful and responsive React Native e-commerce app focused on cosmetics and 
 ### 🎯 All Required Screens Implemented & Tested
 
 #### **Onboarding Screen**
-![Onboarding Screen](./screenshots/onBoarding.jpg)
+![Onboarding Screen](./screenshots/onboarding-screen.jpg)
 *Welcome screen with GlowCart branding and smooth navigation to authentication*
 
 #### **Authentication Screens**
 <div style="display: flex; gap: 20px;">
 
 **Login Screen**  
-![Login Screen](./screenshots/login.jpg)  
+![Login Screen](./screenshots/login-screen.jpg)  
 *User authentication with form validation and error handling*
 
 **Register Screen**  
@@ -33,15 +33,15 @@ A beautiful and responsive React Native e-commerce app focused on cosmetics and 
 <div style="display: flex; gap: 20px;">
 
 **Product List Screen**  
-![Product List Screen](./screenshots/productlist.jpg)  
+![Product List Screen](./screenshots/product-list-screen.jpg)  
 *Beauty products browsing with search, filters, and responsive grid layout*
 
 **Product Detail Screen**  
-![Product Detail Screen](./screenshots/productDetails.jpg)  
+![Product Detail Screen](./screenshots/product-detail.jpg)  
 *Detailed product view with images, ratings, reviews, and add-to-cart functionality*
 
 **Profile Screen**  
-![Profile Screen](./screenshots/profile.jpg)  
+![Profile Screen](./screenshots/profile-screen.jpg)  
 *User profile management with settings, order history, and app preferences*
 
 </div>

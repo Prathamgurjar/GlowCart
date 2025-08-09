@@ -52,6 +52,7 @@ const OnboardingScreen: React.FC<OnboardingScreenProps> = ({ navigation }) => {
 
 
         <View style={styles.brandContainer}>
+          {/* <Logo size="large" style={styles.logo} /> */}
           <Text style={[typography.viorra, styles.brandNameOverride]}>Viorra</Text>
         </View>
 

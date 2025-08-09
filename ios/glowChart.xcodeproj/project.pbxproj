@@ -78,6 +78,7 @@
 		154B4AE6697B44878030E4B1 /* PlayfairDisplay-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC794F3F8BB448BFB79D35C8 /* PlayfairDisplay-Regular.ttf */; };
 		C8BAEF9E78214149B9CCDF6C /* PlayfairDisplay-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0DB004637D404B5F9600BFF3 /* PlayfairDisplay-SemiBold.ttf */; };
 		F5EDD8F942D746DBB6EC2883 /* PlayfairDisplay-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0C892AF162F748B08BC87825 /* PlayfairDisplay-SemiBoldItalic.ttf */; };
+		5E7106F9ED984343BA024264 /* LOGO_SETUP_GUIDE.md in Resources */ = {isa = PBXBuildFile; fileRef = DAAD08F52FE34DC69E28D1E6 /* LOGO_SETUP_GUIDE.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -169,6 +170,7 @@
 		BC794F3F8BB448BFB79D35C8 /* PlayfairDisplay-Regular.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-Regular.ttf"; path = "../assets/fonts/PlayfairDisplay-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		0DB004637D404B5F9600BFF3 /* PlayfairDisplay-SemiBold.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-SemiBold.ttf"; path = "../assets/fonts/PlayfairDisplay-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		0C892AF162F748B08BC87825 /* PlayfairDisplay-SemiBoldItalic.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-SemiBoldItalic.ttf"; path = "../assets/fonts/PlayfairDisplay-SemiBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DAAD08F52FE34DC69E28D1E6 /* LOGO_SETUP_GUIDE.md */ = {isa = PBXFileReference; name = "LOGO_SETUP_GUIDE.md"; path = "../src/assets/images/LOGO_SETUP_GUIDE.md"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -321,6 +323,7 @@
 				BC794F3F8BB448BFB79D35C8 /* PlayfairDisplay-Regular.ttf */,
 				0DB004637D404B5F9600BFF3 /* PlayfairDisplay-SemiBold.ttf */,
 				0C892AF162F748B08BC87825 /* PlayfairDisplay-SemiBoldItalic.ttf */,
+				DAAD08F52FE34DC69E28D1E6 /* LOGO_SETUP_GUIDE.md */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -462,6 +465,7 @@
 				154B4AE6697B44878030E4B1 /* PlayfairDisplay-Regular.ttf in Resources */,
 				C8BAEF9E78214149B9CCDF6C /* PlayfairDisplay-SemiBold.ttf in Resources */,
 				F5EDD8F942D746DBB6EC2883 /* PlayfairDisplay-SemiBoldItalic.ttf in Resources */,
+				5E7106F9ED984343BA024264 /* LOGO_SETUP_GUIDE.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

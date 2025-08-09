@@ -268,6 +268,10 @@
     {
       "path": "assets/fonts/PlayfairDisplay-SemiBoldItalic.ttf",
       "sha1": "d55361beb56fccd592973fa038b45a2205375783"
+    },
+    {
+      "path": "src/assets/images/LOGO_SETUP_GUIDE.md",
+      "sha1": "d925858166cc5b8e42032e73afa36b23daa9f808"
     }
   ]
 }
